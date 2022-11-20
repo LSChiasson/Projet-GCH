@@ -1,0 +1,2 @@
+gay = 'palin'
+print('qui est gay?:',gay)
